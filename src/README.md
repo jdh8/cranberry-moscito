@@ -1,11 +1,6 @@
 # ![Cranberry Moscito](favicon-f645b066.svg)
 
-I have been studying forcing club systems since reading *Good, Better, Best* by
-Jan Eric Larsson, whose simulations show that forcing club systems tend to
-outperform other systems.  I believe opening 1♣ for all strong hands is a
-superior treatment.
-
-**Cranberry Moscito** is a major-oriented strong club system.  It features
+Cranberry Moscito is a major-oriented strong club system.  It features
 4-card cyclic transfer openings, namely ♦ → ♥ → ♠ → ♦, which **work best at the
 first two seats**.  Please play another bidding system, preferably with natural
 major suit openings, at the last two seats.  Examples are:
