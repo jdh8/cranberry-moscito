@@ -9,6 +9,9 @@ major suit openings, at the last two seats.  Examples are:
 - Polish Club (e.g. [*Strawberry Polish Club*](https://polish.club/))
 - Natural 2/1 (e.g. [*Watermelon Dutch*](https://jdh8.github.io/watermelon-dutch/))
 
+Cranberry Moscito demands the late-seat bidding system to open all 11-counts.
+Borrow some points if the selected system requires stronger late-seat openings.
+
 ## Hand evaluation
 
 - **HCP:** the well-known Milton Work's 4321 count
