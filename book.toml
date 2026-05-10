@@ -27,6 +27,7 @@ BML = "Bridge Bidding Markup Language"
 BTU = "Bridge Taiwan University"
 COG = "choice of games"
 NLTC = "New Losing Trick Count"
+QP = "queen points"
 
 # WBF-listed abbreviations
 # http://www.worldbridge.org/wp-content/uploads/2017/04/Guidetocompletion.pdf

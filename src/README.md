@@ -14,9 +14,10 @@ major suit openings, in the last two seats.  Examples are:
 - **HCP:** the well-known Milton Work's 4321 count
 - **Total points:** HCP + distribution points (void = 3, singleton = 2, doubleton
   = 1, subtract 1 for each short suit with HCP)
-- [**Fifths**](https://bridge.thomasoandrews.com/bridge/valuations/cardvaluesfor3nt.html):
+- [**Fifths:**](https://bridge.thomasoandrews.com/bridge/valuations/cardvaluesfor3nt.html)
   4.0--2.8--1.8--1.0--0.4, adjusted HCP for notrump contracts especially 3NT
 - **BUM-RAP:** 4.5--3--1.5--0.75--0.25, adjusted HCP for suit contracts
+- **QP:** 3--2--1, AKA Reese or relay points (RP)
 - **NLTC:** Count 1.5--1.0--0.5 losers for each missing AKQ
 
 NLTC is a good single hand evaluator but not very additive.  It suits preemptive
@@ -62,7 +63,8 @@ A notable example is the [1♣ opening in *Strawberry Polish Club*](https://poli
 
 ### Moscito
 
-- Jari. Böling.  [*J-Moscito*](https://users.abo.fi/jboling/bridge/j_moscito.pdf)
+- Paul Marston.  [MOSCITO 2005](https://bridgewithdan.com/wp-content/uploads/2019/07/moscito2005intro.pdf)
+- Jari Böling.  [*J-Moscito*](https://users.abo.fi/jboling/bridge/j_moscito.pdf)
 - Bo-Yin Yang.
   [*Terrorist's Moscito, or Major-Oriented Strong Club, with Interpid Two Openers*](https://bridgewithdan.com/wp-content/uploads/2022/01/terr_mosc.pdf)
 - [*Moscito Notes*](https://www.scribd.com/document/7375134/Moscito-Notes)
