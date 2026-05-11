@@ -1,4 +1,4 @@
-# ![Cranberry Moscito](favicon-643b88e0.svg)
+# ![Cranberry Moscito](favicon-97edfb4b.svg)
 
 Cranberry Moscito is a major-oriented strong club system.  It features
 4-card cyclic transfer openings, namely ♦ → ♥ → ♠ → ♦, which **work best in the
