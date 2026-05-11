@@ -75,6 +75,7 @@ A notable example is the [1♣ opening in *Strawberry Polish Club*](https://poli
   [*Blue Team Club*](https://bridgewithdan.com/wp-content/uploads/2019/07/BTC2000_gmeier.pdf)
 - Jan Eric Larsson, Anu Uus, and George Wang.
   [Kaninklöver / Cottontail Club: A Cheatsheet (2022)](https://github.com/Egroegw/Kaninklover)
+- Adam Meyerson & Samuel Ieong.  [*IMprecision*](http://www.infobridge.it/Sistemi_IMprecision.pdf)
 - Daniel Neill.  *Standard Modern Precision: Getting from Here to There*.  ISBN
   978-1771401791
 - Edward Piwowar.
