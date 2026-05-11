@@ -4,3 +4,4 @@
 [Introduction](README.md)
 
 - [Openings](Openings.md)
+- [Strong 1♣](1C.md)
