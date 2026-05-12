@@ -1,8 +1,8 @@
 # ![Cranberry Moscito](favicon-97edfb4b.svg)
 
-Cranberry Moscito is a major-oriented strong club system.  It features
-4-card cyclic transfer openings, namely ♦ → ♥ → ♠ → ♦, which **work best in the
-first two seats**.  Please play another bidding system, preferably with natural
+Cranberry Moscito is a major-oriented strong club system.
+**Transfer openings work best in the first two seats.**
+Please play another bidding system, preferably with natural
 major suit openings, in the last two seats.  Examples are:
 
 - Precision Club (e.g. [*Blueberry Precision Club*](https://jdh8.github.io/blueberry-precision/))
