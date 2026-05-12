@@ -4,3 +4,4 @@
 [Introduction](README.md)
 
 - [Openings](Openings.md)
+- [Minor Multi 1♠](1S.md)
