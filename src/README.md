@@ -59,6 +59,7 @@ A notable example is the [1♣ opening in *Strawberry Polish Club*](https://poli
 - Jan Eric Larsson.  *Good, Better, Best: A comparison of bridge bidding
   systems and conventions by computer simulation*.  ISBN 978-1771402415
 - Thomas Andrews.  [Thomas's Bridge Fantasia](https://bridge.thomasoandrews.com/bridge/valuations/)
+- D.L.H. Morgan.  [Relay Systems and More](https://relaysystems.wordpress.com/)
 - Bridge Base.  [GIB Bid Descriptions][GIB]
 
 ### Moscito
