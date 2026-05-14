@@ -70,6 +70,10 @@ A notable example is the [1♣ opening in *Strawberry Polish Club*](https://poli
   [*Terrorist's Moscito, or Major-Oriented Strong Club, with Interpid Two Openers*](https://bridgewithdan.com/wp-content/uploads/2022/01/terr_mosc.pdf)
 - [*Moscito Notes*](https://www.scribd.com/document/7375134/Moscito-Notes)
 
+[Project BOLD](https://cardquant.com/bridge/project-bold/) by Phil Rocquemore
+features unlimited transfer openings.  Despite that its 1♣ opening is a transfer
+to hearts rather than a strong club, its general approach is similar to Moscito.
+
 ### Other strong clubs
 
 - Arturo Franco, Marco Pancotti, and Daniel J. Neill.
