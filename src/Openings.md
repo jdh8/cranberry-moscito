@@ -19,6 +19,10 @@
 | 4M   | PRE, 8+#
 | 4NT! | UNT, 6+♦, 6+♣
 
+It is no longer a highly unusual method (HUM) since 2023 to show either-or
+length between **minor suits** at the 1-level.  I seize the chance and make 1♠
+ambiguous between minor suits.  This frees up 2♣ as a preemptive opening.
+
 ## The notrump ladder
 
 - **11--12:** 1♦♥♠
