@@ -41,10 +41,8 @@ The 2-level openings handle the **preemptive 4--10** zone separately.
 
 Choice between major suits is similar to responses in the 2/1 system.  Choose
 the longer suit most of the time, and pick spades for 5-5 and hearts for 4-4.
-
-However, it is usually good to regard **minimum** 5=6 and 6=7 as 5-5 first.  The
-only way to show 10 cards from a minimum hand is to bid spades first and then
-hearts twice.
+However, it is OK to take minimum 5=6 and 6=7 as 5-5 first.  The only way to
+show 10 cards from a minimum hand is to bid spades first and then hearts twice.
 
 |  -  |   4=♠  |   5+♠  |
 |-----|--------|--------|
