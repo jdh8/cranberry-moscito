@@ -37,22 +37,16 @@ The 2-level openings handle the **preemptive 4--10** zone separately.
 | 4M   | PRE, 8+#
 | 4NT! | UNT, 6+♦, 6+♣
 
-## Choice between major suits
+## Choice between suits
 
-Choice between major suits is similar to responses in the 2/1 system.  Choose
-the longer suit most of the time, and pick spades for 5-5 and hearts for 4-4.
-However, it is OK to take minimum 5=6 and 6=7 as 5-5 first.  The only way to
-show 10 cards from a minimum hand is to bid spades first and then hearts twice.
+Choice between major suits is similar to Transfer Walsh responses.
 
-|  -  |   4=♠  |   5+♠  |
-|-----|--------|--------|
-| 4=♥ | 1♦ → ♥ | 1♥ → ♠ |
-| 5+♥ | 1♦ → ♥ | 1♥ → ♠ (mostly)
+1. Transfer to the longer major suit
+2. Transfer to spades with 5+♠ and 5+♥
+3. Transfer to hearts with 4=♠ and 4=♥
 
-## Choice between a major and a minor suit
-
-Bid for the major suit most of the time, but open 1♠ for the minor suit when you
-have 6+ cards in a minor suit and only 4 cards in a major suit.
+Pick a major suit over a minor suit most of the time, but open 1♠ for the minor
+suit when you have 6+ cards in a minor suit and only 4 cards in a major suit.
 
 |  -  | 4=M | 5+M |
 |-----|-----|-----|
