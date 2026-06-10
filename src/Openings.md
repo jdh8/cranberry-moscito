@@ -6,14 +6,14 @@ strongest to weakest:
 - **Strong (16+):** any shape opens the strong artificial 1♣; the [notrump
   ladder](#the-notrump-ladder) resolves further range steps.
 - **Heavy (13--15):** always open — balanced hands bid 1NT, unbalanced hands
-  take a transfer 1♦♥♠.
+  open with a transfer (1♦/1♥/1♠).
 - **Light (10--12):** the leftover range.  Open a transfer when the hand
   qualifies under Rule of 20 (HCP + lengths of the two longest suits ≥ 20), or
   Rule of 19 with a 5-card major.  Pass an off-shape 12-count such as (32)44 and
   (4333) — the system has no suitable opening for it.
 
 Since 2023, it is no longer a highly unusual method (HUM) to show **one of
-the minor suits** at the 1-level.  I seize the chance and make 1♠ ambiguous
+the minor suits** at the 1-level.  I take this chance and make 1♠ ambiguous
 between the minors.  This frees up 2♣ as a preemptive opening.
 
 The 2-level openings handle the **preemptive 4--10** zone separately.
