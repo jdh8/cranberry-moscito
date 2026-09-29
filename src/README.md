@@ -9,48 +9,17 @@ major suit openings, in the last two seats.  Examples are:
 - Polish Club (e.g. [*Strawberry Polish Club*](https://polish.club/))
 - Natural 2/1 (e.g. [*Watermelon Dutch*](https://jdh8.github.io/watermelon-dutch/))
 
-## Hand evaluation
+## Notation
 
-- **HCP:** the well-known Milton Work's 4321 count
-- **Total points:** HCP + distribution points (void = 3, singleton = 2, doubleton
-  = 1, subtract 1 for each short suit with HCP)
-- [**Fifths:**](https://bridge.thomasoandrews.com/bridge/valuations/cardvaluesfor3nt.html)
-  4.0--2.8--1.8--1.0--0.4, adjusted HCP for notrump contracts especially 3NT
-- **BUM-RAP:** 4.5--3--1.5--0.75--0.25, adjusted HCP for suit contracts
-- **QP:** 3--2--1, AKA Reese or relay points (RP)
-- **NLTC:** Count 1.5--1.0--0.5 losers for each missing AKQ
+This book follows *Strawberry Polish Club* for [hand evaluation][eval],
+[bidding notation][notation], and [punctuation][punct] in tables and prose.
 
-NLTC is a good single-hand evaluator but not very additive.  It suits preemptive
-initial actions but not for showing support.  I wrote a [blog article][nltc] on
-that topic.
+[eval]: https://polish.club/#hand-evaluation
+[notation]: https://polish.club/#bidding-notation
+[punct]: https://polish.club/#punctuation
 
-[nltc]: https://jdh8.org/nltc-a-good-single-hand-evaluator/
-
-### Stopper
-
-I evaluate stopper quality as [GIB] does.
-
-- **Partial stop:** length + HCP = 4
-- **Likely stop:** length + HCP = 5
-- **Stop:** A, QJx, or length + HCP at least 7
-- **Two stops:** length + HCP at least 8
-
-[GIB]: https://www.bridgebase.com/doc/gib_descriptions.php
-
-## Punctuation
-
-Descriptions in bidding tables are dense in information.  To make them concise,
-I use [abbreviations suggested by WBF][abbr].  Besides, for natural reading
-flow, I use common punctuation marks to connect conditions.  Their meanings are
-usually self-explanatory in a bidding table.
-
-[abbr]: http://www.worldbridge.org/wp-content/uploads/2017/04/Guidetocompletion.pdf
-
-- **The comma (,)** works as **AND**.
-- **The semicolon (;)** works as **OR**.
-- **The colon (:)** follows the general description of the call.
-
-A notable example is the [1♣ opening in *Strawberry Polish Club*](https://polish.club/Openings.html).
+This book also uses **QP** (queen points): the 3--2--1 count, also known as
+Reese or relay points (RP).
 
 ## References
 
@@ -60,7 +29,7 @@ A notable example is the [1♣ opening in *Strawberry Polish Club*](https://poli
   systems and conventions by computer simulation*.  ISBN 978-1771402415
 - Thomas Andrews.  [Thomas's Bridge Fantasia](https://bridge.thomasoandrews.com/bridge/valuations/)
 - D.L.H. Morgan.  [Relay Systems and More](https://relaysystems.wordpress.com/)
-- Bridge Base.  [GIB Bid Descriptions][GIB]
+- Bridge Base.  [GIB Bid Descriptions](https://www.bridgebase.com/doc/gib_descriptions.php)
 
 ### Moscito
 
