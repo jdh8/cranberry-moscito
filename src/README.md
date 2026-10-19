@@ -1,4 +1,4 @@
-# ![Cranberry Moscito](favicon-55b22ec6.svg)
+# ![Cranberry Moscito](favicon-5b1383f7.svg)
 
 Cranberry Moscito is a major-oriented strong club system.
 **Transfer openings work best in the first two seats.**
