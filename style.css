@@ -28,9 +28,9 @@ th {
 	color: var(--red);
 }
 
-.♠,
-.♣ {
-	color: var(--fg);
+.content a .♥,
+.content a .♦ {
+	color: inherit;
 }
 
 /* Suit red per theme */
@@ -56,10 +56,6 @@ html {
 }
 
 /* Sidebar */
-.sidebar {
-	--fg: var(--sidebar-fg);
-}
-
 .rust .sidebar {
 	--red: #f77;
 }
