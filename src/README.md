@@ -18,9 +18,6 @@ This book follows *Strawberry Polish Club* for [hand evaluation][eval],
 [notation]: https://polish.club/#bidding-notation
 [punct]: https://polish.club/#punctuation
 
-This book also uses **QP** (queen points): the 3--2--1 count, also known as
-Reese or relay points (RP).
-
 ## References
 
 ### General methods
