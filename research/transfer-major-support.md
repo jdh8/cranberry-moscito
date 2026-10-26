@@ -122,21 +122,23 @@ Kungsgeten's 2013 hybrid excludes 4333/4432 from these openings. Over
 subsequent bidding resolves the mixed 2♦ response.
 [Firsthand account, post 2, 4 June 2013](https://www.bridgebase.com/forums/topic/60528-moscito-sequences/#entry729673).
 
+## Verdict for Cranberry
+
+**Three-card support is enough to bid beyond 1NT.** Cranberry's existing
+raise structure already follows this principle. It accepts a possible 4–3 fit;
+responder can raise without first establishing opener's fifth major card.
+The strength and support requirements of each response still apply.
+
 ## Implications for Cranberry
 
 These are design deductions, not further published agreements.
 
-- **Decide what the low-level raise tells opener.** Current
+- **The low-level raises promise three-plus support.** Current
   [1♦](../src/1D.md) and [1♥](../src/1H.md) continuations give both the
   constructive artificial raise and the preemptive 2M response 3+ support.
   Consequently neither identifies whether the partnership has seven or
-  eight trumps when opener has four. If that information is the priority,
-  give four-card hands a separate route or specify a later separation.
-- **A three-card raise needs an agreed escape or acceptance policy.**
-  Opener with four cards must know whether to accept the seven-card fit,
-  suggest notrump, or show a longer minor. Raising does not itself discover
-  the eighth trump. This matters especially when the major can be weaker
-  or shorter than opener's minor.
+  eight trumps when opener has four. The verdict accepts this uncertainty
+  when raising beyond 1NT.
 - **Keep the enquiry available for uncertain game choice.** Responder
   with three trumps and enough strength to investigate can learn whether
   opener has four or five before choosing the major game or notrump.
@@ -153,10 +155,9 @@ These are design deductions, not further published agreements.
   require changing that agreement.
 - **Resolve the branch allocation before copying continuations.** The
   current 2NT is Lebensohl, 3M invitational, and 3NT a slam try. Adopting
-  another version's raises would displace those meanings. Start with the
-  three-versus-four-card distinction, then fit the strength bands and
-  enquiries around the chosen response map. A delayed invitation split
-  is especially worth considering if retaining the existing 2NT allocation.
+  another version's raises would displace those meanings. Fit the strength
+  bands and enquiries around the chosen response map. A delayed invitation
+  split remains an option if greater support precision is wanted.
 
 ## Verification and limits
 
