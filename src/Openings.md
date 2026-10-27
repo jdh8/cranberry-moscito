@@ -7,7 +7,7 @@ strongest to weakest:
   ladder](#the-notrump-ladder) resolves further range steps.
 - **Heavy (13--15):** always open — balanced hands bid 1NT, unbalanced hands
   open with a transfer 1♦♥♠.
-- **Light (10--12):** the leftover range.  Open a transfer when the hand
+- **Light (11--12):** the leftover range.  Open a transfer when the hand
   qualifies under Rule of 20 (HCP + lengths of the two longest suits ≥ 20), or
   Rule of 19 with a 5-card major.  Pass an off-shape 12-count such as (32)44 and
   (4333) — the system has no suitable opening for it.
@@ -21,9 +21,9 @@ The 2-level openings handle the **preemptive 4--10** zone separately.
 |      | |
 |------|-|
 | 1♣!  | STR ART, 16+
-| 1♦!  | NF TRF, 10--15, 4+♥, not 3433
-| 1♥!  | NF TRF, 10--15, 4+♠, not 4333
-| 1♠!  | P/C, 10--15, 5+♦♣
+| 1♦!  | NF TRF, 11--15, 4+♥, not 3433
+| 1♥!  | NF TRF, 11--15, 4+♠, not 4333
+| 1♠!  | P/C, 11--15, 5+♦♣
 | 1NT  | 13--15, 2--5♠, 2--5♥, 2--6♦, 2--6♣
 | 2♣!  | PRE, 4--10, 4+♠, 4+♥
 | 2♦!  | PRE, 4--10, 6+♠♥
@@ -55,7 +55,7 @@ suit when you have 6+ cards in a minor suit and only 4 cards in a major suit.
 
 ## The notrump ladder
 
-- **10--12:** 1♦♥♠
+- **11--12:** 1♦♥♠
 - **13--15:** 1NT
 - **16--18:** 1♣ - 1♦ - 1NT
 - **19--21:** 1♣ - 1♦ - 1♥
