@@ -3,18 +3,11 @@
 One-of-a-suit and 1NT openings split the HCP scale into three zones, from
 strongest to weakest:
 
-- **Strong (16+):** any shape opens the strong artificial 1♣; the [notrump
-  ladder](#the-notrump-ladder) resolves further range steps.
-- **Heavy (13--15):** always open — balanced hands bid 1NT, unbalanced hands
-  open with a transfer 1♦♥♠.
-- **Light (11--12):** the leftover range.  Open a transfer when the hand
-  qualifies under Rule of 20 (HCP + lengths of the two longest suits ≥ 20), or
-  Rule of 19 with a 5-card major.  Pass an off-shape 12-count such as (32)44 and
-  (4333) — the system has no suitable opening for it.
-
-Since 2023, it is no longer a highly unusual method (HUM) to show **one of
-the minor suits** at the 1-level.  I take this chance and make 1♠ ambiguous
-between the minors.  This frees up 2♣ as a preemptive opening.
+- **Strong (16+):** Open 1♣.
+- **Heavy (13--15):** Always open: balanced hands in 1NT, unbalanced hands in
+  a suit.
+- **Light (11--12):** Open all available 12-counts.  Select 11-counts with
+  5-card major or good playing strength.
 
 The 2-level openings handle the **preemptive 4--10** zone separately.
 
@@ -23,9 +16,9 @@ The 2-level openings handle the **preemptive 4--10** zone separately.
 | 1♣!  | STR ART, 16+
 | 1♦!  | NF TRF, 11--15, 4+♥, not 3433
 | 1♥!  | NF TRF, 11--15, 4+♠, not 4333
-| 1♠!  | P/C, 11--15, 5+♦♣
+| 1♠!  | NF TRF, 11--15, UNBAL 4+♦
 | 1NT  | 13--15, 2--5♠, 2--5♥, 2--6♦, 2--6♣
-| 2♣!  | PRE, 4--10, 4+♠, 4+♥
+| [2♣](https://jdh8.github.io/blueberry-precision/2C.html) | NAT, 11--15, 6+♣
 | 2♦!  | PRE, 4--10, 6+♠♥
 | 2♥!  | PRE, 4--10, 5=♥, 4+♦♣
 | 2♠!  | PRE, 4--10, 5=♠, 4+♦♣
@@ -48,10 +41,10 @@ Choice between major suits is similar to Transfer Walsh responses.
 Pick a major suit over a minor suit most of the time, but open 1♠ for the minor
 suit when you have 6+ cards in a minor suit and only 4 cards in a major suit.
 
-|     | 4=M | 5+M |
-|-----|-----|-----|
-| 5=m | 1♦♥ | 1♦♥ |
-| 6+m | 1♠  | 1♦♥ |
+|      | 4=♠♥   | 5+♠♥ |
+|------|--------|------|
+| 5=♦♣ | 1♦♥    | 1♦♥  |
+| 6+♦♣ | 1♠, 2♣ | 1♦♥  |
 
 ## The notrump ladder
 
