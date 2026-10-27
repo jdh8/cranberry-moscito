@@ -6,13 +6,14 @@ strongest to weakest:
 - **Strong (16+):** Open 1♣.
 - **Heavy (13--15):** Always open: balanced hands in 1NT, unbalanced hands in
   a suit.
-- **Light (11--12):** Open all available 12-counts.  Select 11-counts with
+- **Light (11--12):** Open all eligible 12-counts.  Select 11-counts with
   5-card major or good playing strength.
 
-The 2-level openings handle the **preemptive 4--10** zone separately, except
-for [Precision 2♣][2♣].  Since 1♠ promises diamonds, 2♣ takes 6+♣ in the heavy
-and light zones.  The preempts from 2♦ up are the same as in *Strawberry Polish
-Club*: [Multi 2♦][2♦], [Muiderberg 2♥♠][2M], and [unusual 2NT][2NT].
+[Precision 2♣][2♣] takes 6+♣ in the limited zones since 1♠ promises diamonds.
+
+The 2♦♥♠ openings handle the **preemptive 4--10** zone separately.  They are the
+same as in *Strawberry Polish Club*: [Multi 2♦][2♦], [Muiderberg 2♥♠][2M], and
+[unusual 2NT][2NT].
 
 |           | |
 |-----------|-|
