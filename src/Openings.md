@@ -18,7 +18,7 @@ The 2-level openings handle the **preemptive 4--10** zone separately.
 | 1♥!  | NF TRF, 11--15, 4+♠, not 4333
 | 1♠!  | NF TRF, 11--15, UNBAL 4+♦
 | 1NT  | 13--15, 2--5♠, 2--5♥, 2--6♦, 2--6♣
-| [2♣](https://jdh8.github.io/blueberry-precision/2C.html) | NAT, 11--15, 6+♣
+| [2♣] | NAT, 11--15, 6+♣
 | 2♦!  | PRE, 4--10, 6+♠♥
 | 2♥!  | PRE, 4--10, 5=♥, 4+♦♣
 | 2♠!  | PRE, 4--10, 5=♠, 4+♦♣
@@ -29,6 +29,8 @@ The 2-level openings handle the **preemptive 4--10** zone separately.
 | 4♦!  | PRE, SOL 8+♠♥, no outside A/K
 | 4♥♠  | PRE, 8+#
 | 4NT! | UNT, 6+♦, 6+♣
+
+[2♣]: https://jdh8.github.io/blueberry-precision/2C.html
 
 ## Choice between suits
 
