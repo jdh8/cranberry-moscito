@@ -10,6 +10,7 @@ strongest to weakest:
   5-card major or good playing strength.
 
 [Precision 2♣][2♣] takes 6+♣ in the limited zones since 1♠ promises diamonds.
+Continuations after 1♦♥♠ follow [Moscito 2007][M2007] by Paul Marston.
 
 The 2♦♥♠ openings handle the **preemptive 4--10** zone separately.  They are the
 same as in *Strawberry Polish Club*: [Multi 2♦][2♦], [Muiderberg 2♥♠][2M], and
@@ -35,6 +36,7 @@ same as in *Strawberry Polish Club*: [Multi 2♦][2♦], [Muiderberg 2♥♠][2M
 | 4NT!      | UNT, 6+♦, 6+♣
 
 [2♣]: https://jdh8.github.io/blueberry-precision/2C.html
+[M2007]: https://relaysystems.wordpress.com/wp-content/uploads/2021/10/moscito-2007.pdf
 [2♦]: https://polish.club/2D.html
 [2M]: https://polish.club/2M.html
 [2NT]: https://polish.club/2NT.html

@@ -31,6 +31,7 @@ This book follows *Strawberry Polish Club* for [hand evaluation][eval],
 ### Moscito
 
 - Paul Marston.  [MOSCITO 2005](https://bridgewithdan.com/wp-content/uploads/2019/07/moscito2005intro.pdf)
+- Paul Marston.  [MOSCITO 2007](https://relaysystems.wordpress.com/wp-content/uploads/2021/10/moscito-2007.pdf)
 - Jari Böling.  [*J-Moscito*](https://users.abo.fi/jboling/bridge/j_moscito.pdf)
 - Bo-Yin Yang.
   [*Terrorist's Moscito, or Major-Oriented Strong Club, with Interpid Two Openers*](https://bridgewithdan.com/wp-content/uploads/2022/01/terr_mosc.pdf)
