@@ -9,28 +9,34 @@ strongest to weakest:
 - **Light (11--12):** Open all available 12-counts.  Select 11-counts with
   5-card major or good playing strength.
 
-The 2-level openings handle the **preemptive 4--10** zone separately.
+The 2-level openings handle the **preemptive 4--10** zone separately, except
+for [Precision 2♣][2♣].  Since 1♠ promises diamonds, 2♣ takes 6+♣ in the heavy
+and light zones.  The preempts from 2♦ up are the same as in *Strawberry Polish
+Club*: [Multi 2♦][2♦], [Muiderberg 2♥♠][2M], and [unusual 2NT][2NT].
 
-|      | |
-|------|-|
-| 1♣!  | STR ART, 16+
-| 1♦!  | NF TRF, 11--15, 4+♥, not 3433
-| 1♥!  | NF TRF, 11--15, 4+♠, not 4333
-| 1♠!  | NF TRF, 11--15, UNBAL 4+♦
-| 1NT  | 13--15, 2--5♠, 2--5♥, 2--6♦, 2--6♣
-| [2♣] | NAT, 11--15, 6+♣
-| 2♦!  | PRE, 4--10, 6+♠♥
-| 2♥!  | PRE, 4--10, 5=♥, 4+♦♣
-| 2♠!  | PRE, 4--10, 5=♠, 4+♦♣
-| 2NT! | UNT, 4--10, 5+♦, 5+♣
-| 3x   | PRE, 7+#
-| 3NT! | Gambling, SOL 7+♦♣, 0--1 outside A/K
-| 4♣!  | PRE, S-SOL 8+♠♥, 0--1 outside A/K
-| 4♦!  | PRE, SOL 8+♠♥, no outside A/K
-| 4♥♠  | PRE, 8+#
-| 4NT! | UNT, 6+♦, 6+♣
+|           | |
+|-----------|-|
+| 1♣!       | STR ART, 16+
+| 1♦!       | NF TRF, 11--15, 4+♥, not 3433
+| 1♥!       | NF TRF, 11--15, 4+♠, not 4333
+| 1♠!       | NF TRF, 11--15, UNBAL 4+♦
+| 1NT       | 13--15, 2--5♠, 2--5♥, 2--6♦, 2--6♣
+| [2♣]      | NAT, 11--15, 6+♣
+| [2♦]!     | PRE, 4--10, 6+♠♥
+| [2♥][2M]! | PRE, 4--10, 5=♥, 4+♦♣
+| [2♠][2M]! | PRE, 4--10, 5=♠, 4+♦♣
+| [2NT]!    | UNT, 4--10, 5+♦, 5+♣
+| 3x        | PRE, 7+#
+| 3NT!      | Gambling, SOL 7+♦♣, 0--1 outside A/K
+| 4♣!       | PRE, S-SOL 8+♠♥, 0--1 outside A/K
+| 4♦!       | PRE, SOL 8+♠♥, no outside A/K
+| 4♥♠       | PRE, 8+#
+| 4NT!      | UNT, 6+♦, 6+♣
 
 [2♣]: https://jdh8.github.io/blueberry-precision/2C.html
+[2♦]: https://polish.club/2D.html
+[2M]: https://polish.club/2M.html
+[2NT]: https://polish.club/2NT.html
 
 ## Choice between suits
 
