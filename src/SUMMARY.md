@@ -4,6 +4,6 @@
 [Introduction](README.md)
 
 - [Openings](Openings.md)
-- [Transfer 1♦](1D.md)
-- [Transfer 1♥](1H.md)
-- [Transfer 1♠](1S.md)
+- [Hearts 1♦](1D.md)
+- [Spades 1♥](1H.md)
+- [Diamonds 1♠](1S.md)
